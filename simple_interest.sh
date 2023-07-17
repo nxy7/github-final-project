@@ -4,8 +4,9 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Dawid Danieluk (IBM)
+# Author: Upkar Lidder (IBM)
 # Additional Authors:
+# Dawid Danieluk
 
 # Input:
 # p, principal amount
